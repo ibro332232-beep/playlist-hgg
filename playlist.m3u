@@ -1,0 +1,11 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="ذكريات" group-title="قنوات سعودية",ذكريات
+https://live.kwikmotion.com/zikrayatlive/zikrayat.smil/zikrayatpublish/zikrayat_360p/hdntl=exp=1793640299~acl=%2Fzikrayatlive%2Fzikrayat.smil%2F*~data=hdntl~hmac=8e971fbd42f3aebc8bdd87412cc33a07290a1bdae05d5e0f3126e3cb62889753/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-name="Rotana Khalejiya" group-title="قنوات خليجية",روتانا خليجية
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/rotana/khaleejiya_360p/l_92_141882000_143769.ts
+
+#EXTINF:-1 tvg-name="قناة القرآن الكريم" group-title="قنوات دينية",قناة القرآن الكريم
+https://live-hls-web-aje.getaj.net
